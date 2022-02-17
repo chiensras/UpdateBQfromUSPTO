@@ -1,2 +1,4 @@
 # PatentsView_Location
-testing pushing data back into github
+Status 2022-02-17
+getting a JSON Decode Error "Expecting value" from None
+attempting to test getting data back and forth from USPTO APIs
